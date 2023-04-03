@@ -1,0 +1,16 @@
+{
+  "name": "api-rest-com-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "roger fernandes",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "jest": "23.6.0"
+  }
+}
