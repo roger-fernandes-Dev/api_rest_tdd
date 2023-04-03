@@ -11,5 +11,5 @@
  * I configured two commands in the package.json file, one for eslint and the other for jest, to make it easier to execute them in the terminal.
  * "test": "jest",
     "lint":"eslint src/** test/** --fix"
- * 
+ * I also needed to inform ESLint that I was using Jest. => "jest": true
 
